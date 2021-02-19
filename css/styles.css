@@ -107,3 +107,21 @@ body {
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+#pricing{
+  padding:5%;
+  text-align: center;
+}
+
+.pricing-column {
+  padding:2%;
+}
+
+.card {
+  width: 400px;
+  height: 400px;
+}
+
+.Mastiff-button{
+  margin-top:23px;
+}
