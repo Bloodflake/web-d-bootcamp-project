@@ -6,3 +6,5 @@
 * CSS
 * JavaScript
 * Bootstrap
+
+![Image of website](Screenshot.png)
